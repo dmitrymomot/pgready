@@ -16,7 +16,7 @@ A simple command-line utility to check if a PostgreSQL database is ready to acce
 ## Installation
 
 ```bash
-go install github.com/yourusername/pgready@latest
+go install github.com/dmitrymomot/pgready@latest
 ```
 
 ## Usage
