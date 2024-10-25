@@ -1,7 +1,6 @@
 # pgready
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/dmitrymomot/pgready)](https://github.com/dmitrymomot/pgready)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dmitrymomot/pgready)](https://goreportcard.com/report/github.com/dmitrymomot/pgready)
 [![Go Reference](https://pkg.go.dev/badge/github.com/dmitrymomot/pgready.svg)](https://pkg.go.dev/github.com/dmitrymomot/pgready)
 [![License](https://img.shields.io/github/license/dmitrymomot/pgready)](https://github.com/dmitrymomot/pgready/blob/main/LICENSE)
 
